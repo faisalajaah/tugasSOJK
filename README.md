@@ -1,1 +1,3 @@
 # tugasSOJK
+
+Jangan Direcode WEI
