@@ -56,7 +56,7 @@ fi
 if [ $pil -eq 6 ] 
 then
 sudo apt-get update
-sudo apt-get install Nginx
+sudo apt-get install nginx
 fi
 
 if [ $pil -eq 7 ] 
